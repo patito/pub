@@ -12,7 +12,7 @@ Happy Hacking!!!
 ## Cloning the project
 
 ```
-$ git clone https://gite.brandwatch.com/paulo/pub.git
+$ git clone https://github.com/patito/pub.git
 $ cd pub
 ```
 
@@ -66,7 +66,7 @@ make[1]: Leaving directory '/usr/src/linux-headers-4.2.0-16-generic'
 /*
  * "THE BARBECUE-WARE LICENSE" (Revision 1):
  *
- * <paulo@brandwatch.com> wrote this file. As long as you retain this notice you
+ * <benatto@gmail.com> wrote this file. As long as you retain this notice you
  * can do whatever you want with this stuff. If we meet some day, and you think
  * this stuff is worth it, you can make me a brazilian barbecue, including beers
  * and caipirinha in return to Paulo Leonardo Benatto.
@@ -81,7 +81,7 @@ make[1]: Leaving directory '/usr/src/linux-headers-4.2.0-16-generic'
 If you see something wrong just send me a message, and I will fix it as soon as possible. Just to be clear `You suck Hobbit` is not a good message.
 
 ```
-$ echo "moc.hctawdnarb@oluap" | rev
+$ echo "moc.liamg@ottaneb" | rev
 ```
 
 ## Reference
